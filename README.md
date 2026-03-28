@@ -97,8 +97,7 @@ http://localhost:5173
 
 ## 🌐 Live Demo
 
-(Add deployed link here after deployment)
-
+https://amazon-clone-teal-nu.vercel.app/
 ---
 
 ## 🔮 Future Enhancements
